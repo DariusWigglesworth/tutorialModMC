@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "tutorialMod",
+  "description": "A basic mod for learning.",
+  "version": "${1.0.0}",
+  "mcversion": "${1.14}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Darius Wigglesworth"],
+  "credits": "The cats",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
